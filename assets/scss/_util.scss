@@ -1,0 +1,113 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+}
+.wrap{
+    padding: 32px;
+}
+.menu{
+    min-height: 100vh;
+}
+p{
+    margin-bottom: 0;
+}
+.user-image{
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    margin-right: 16px;
+}
+.user-image-assign{
+    max-width: 40px;
+    height: 40px;
+    overflow: hidden;
+    margin-right: 16px;
+}
+
+
+//spacing
+.pl-0{
+    padding-left: 0; 
+}
+.pl-1{
+    padding-left: 8px;
+}
+.pl-1-nav{
+    padding-left: 18px;
+}
+
+.pr-0{
+    padding-right: 0;
+}
+.pr-1{
+    padding-right: 16px;
+}
+.pb-1-assign{
+    padding-bottom: 32px;
+}
+.pb-2-assign{
+    padding-bottom: 29px;
+}
+.pd-1{
+    padding-bottom: 16px;
+}
+.pb-2-admin{
+    padding-bottom: 25px;
+}
+.px-0{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.mt-1-admin{
+    margin-top: 36px;
+}
+.mb-1-assign{
+    margin-bottom: 16px;
+}
+.mr-1-assign{
+    margin-right: 16px;
+}
+.mr-2-assign{
+    margin-right: 25px;
+}
+.my-0{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.pxy-1{
+    padding: 12px;
+}
+.pxy-2{
+    padding: 8px;
+}
+.pxy-3{
+    padding: 4px;
+}
+//字型大小
+.fz-1{
+    font-size: 12px;
+}
+.fz-2{
+    font-size: 14px;
+}
+.fz-3{
+    font-size: 20px;
+}
+
+//粗細 
+.fw-b{
+    font-weight: bold;
+}
+.fw-l{
+    font-weight: lighter;
+}
+.fontstyle-italic{
+    font-style: italic;
+}
+
+//其他
+.text-c {
+    text-align: center;
+}

@@ -1,0 +1,48 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+a, a:hover{
+    text-decoration: none !important;
+    color: $primary;
+}
+.btn-block{
+    display: block;
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+.material-icons{
+    width: 20px;
+    height: 20px;
+}
+
+.display-b {
+    display: block;
+}
+
+.bg-primary {
+    background-color: #2A8356;
+}
+.bg-second {
+    background-color: #EDF4EE;
+}
+.color-primary {
+    color: #2A8356 !important;
+}
+.color-dark{
+    color: #121212;
+}
+.color-warning{
+    color: #E3006E;
+}
